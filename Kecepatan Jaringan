@@ -4,11 +4,11 @@ Kecepatan Jaringan
 •Ukuran buffer pencatat log
  64k/penyangga log
 
-•Pelacakan sistem
+2•Pelacakan sistem
  Ukuran buffer
  ○4096
 
-•Atur Apn
+3•Atur Apn
  Setting/pengaturan hp
  Koneksi
  Jaringan seluler
@@ -19,4 +19,4 @@ Kecepatan Jaringan
  Simpan
  Ganti apn ○Continues
 
- Ping jaringan bisa di google.
+#Ping jaringan bisa di google.
