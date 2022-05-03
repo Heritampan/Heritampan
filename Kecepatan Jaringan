@@ -1,0 +1,22 @@
+Kecepatan Jaringan
+
+1.Buka opsi pengembang di hp android
+•Ukuran buffer pencatat log
+ 64k/penyangga log
+
+•Pelacakan sistem
+ Ukuran buffer
+ ○4096
+
+•Atur Apn
+ Setting/pengaturan hp
+ Koneksi
+ Jaringan seluler
+ Nama poin akses
+ Tambah
+ Nama:Continues
+ APN :for(;;)
+ Simpan
+ Ganti apn ○Continues
+
+ Ping jaringan bisa di google.
